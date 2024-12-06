@@ -2,7 +2,7 @@ Hi ! I'm Reeshav_Ghosh200
 
 =========================
 
-Front end WEb Developer
+Front end Web Developer
 
 -------------------------
 
