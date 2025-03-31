@@ -1,12 +1,12 @@
 Hi ! I'm Reeshav_Ghosh200
 
-=========================
+<hr>
 
 Front end Web Developer
 
--------------------------
+<hr>
 
-I have been learning coding for 3 years and have some great experience in CSS and Javascript
+I have been learning coding for 3 years and have some great experiences in CSS and Javascript
 
 * 🌍  I'm based in India
 * ✉️   You can contact me at [reeshavghosh5@gmail.com](mailto:reeshavghosh5@gmail.com)
