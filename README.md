@@ -6,7 +6,7 @@ Front end Web Developer
 
 -------------------------
 
-I have been learning coding for 2 years and have some greate experience in CSS and Javascript
+I have been learning coding for 3 years and have some greate experience in CSS and Javascript
 
 * 🌍  I'm based in India
 * ✉️   You can contact me at [reeshavghosh5@gmail.com](mailto:reeshavghosh5@gmail.com)
