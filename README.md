@@ -1,19 +1,25 @@
-Hi ! I'm Reeshav_Ghosh200
+# Hi, I'm **Reeshav_Ghosh200**
 
-<hr>
+---
 
-Front end Web Developer
+### **Front-End Web Developer**  
+#### **Microcontroller Programmer & Python Developer**
 
-<hr>
+---
 
-I have been learning coding for 3 years and have some great experiences in CSS and Javascript
+I am a dedicated front-end web developer with three years of coding experience, specializing in **CSS** and **JavaScript**. Over the course of my learning journey, I have built strong expertise in developing responsive, interactive, and visually engaging user interfaces.
 
-* 🌍  I'm based in India
-* ✉️   You can contact me at [reeshavghosh5@gmail.com](mailto:reeshavghosh5@gmail.com)
-* 🧠  I'm currently exploring ReactJS
-* 🤝  I'm open to collaborating on projects that can be interesting now & then
-* ⚡   In love with Javascript & C++ (.ino)
-* ⚡   Fun fact: The fact is funny
+In addition to web development, I have practical experience working with microcontroller platforms such as **Arduino** and **ESP32**, where I focus on embedded programming, sensor integration, and hardware-software interaction. I am also proficient in **Python**, and can assist with scripting, automation, and general-purpose development tasks.
+
+- 🌍 **Location:** India  
+- ✉️ **Email:** [reeshavghosh5@gmail.com](mailto:reeshavghosh5@gmail.com)  
+- 🧠 **Currently Exploring:** Raspberry Pi  
+- 🤝 **Open to Collaboration:** I am interested in contributing to innovative and meaningful projects.  
+- ⚡ **Passions:** JavaScript & C++ (.ino)  
+- 🔥 **Fun Fact:** The fact is funny.
+
+---
+
 
 <!--### Coding Platforms:
 [W3Schools]
