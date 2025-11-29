@@ -2,7 +2,7 @@
 
 ---
 
-### **Microcontroller Programmer & Python Developer**
+### **Microcontroller Programmer & Python Developer** 
 ### **Front-End Web Developer**
 
 ---
