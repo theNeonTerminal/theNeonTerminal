@@ -1,4 +1,4 @@
-# Hi, I'm **/usr/NeonTerminal**
+# Hi, I'm **Neon Terminal**
 
 ---
 
