@@ -14,11 +14,6 @@
 
 
 ## My Tech Stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-
-
-
 [![My Skills](https://skillicons.dev/icons?i=arduino,python,linux,git,github,html,css&theme=dark)](https://skillicons.dev)
 
 **Also comfortable with**: Vannila JavaScript
@@ -63,10 +58,10 @@
 ## Stats
 
 <div align="center">
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=theneonterminal&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=theNeonTerminal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theNeonTerminal&layout=compact&theme=radical) -->
 
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=theNeonTerminal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theNeonTerminal&layout=compact&theme=radical) 
 <img src="https://streak-stats.demolab.com?user=theNeonTerminal&theme=tokyonight&hide_border=false" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theNeonTerminal&theme=react-dark)
