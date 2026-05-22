@@ -7,18 +7,26 @@
 # Hi 👋! Im /usr/NeonTerminal
 **`IoT and Python Developer`** 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ARCH-BTW-blue?style=flat-square&logo=archlinux&logoColor=white&labelColor=1a1a2e&color=7C3AED" />
+  <img src="https://img.shields.io/badge/STATUS-COLLAPSING-blue?style=flat-square&labelColor=1a1a2e&color=06d6a0" />
+  <img src="https://img.shields.io/badge/FOCUS-ROBOTICS_AND_HARDWARE-blue?style=flat-square&labelColor=1a1a2e&color=ef476f" />
+  <img src="https://komarev.com/ghpvc/?username=theNeonTerminal&label=visitors&color=7C3AED&style=flat-square&labelColor=1a1a2e" />
+</p>
+
 ## About Me
 - Im a hobbist developer from India
 - i build cool stuff
 - i use arch btw
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=arduino,python,linux,git,github,html,css&theme=dark)](https://skillicons.dev)
 
 **Also comfortable with**: Vannila JavaScript
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Projects - showcase
 
@@ -33,9 +41,9 @@
       <br/>
       <b>Sense-Aid</b><br/>
       <sub>An AI assisted tool (camera) for people with sever vision problems that helps them navigating the world with ease</sub><br/>
-      🔗 <a href="https://github.com/theNeonTerminal/Sense-Aid_v1.0">Check out my Repo here!</a>
+      🔗 <a href="https://github.com/theNeonTerminal/Sense-Aid_v1.0">Check out Sense-Aid here!</a>
       <br/>
-      <sub>Tags: AI, Python, Computer Vision, ESP32, WiFi, Practical Project</sub>
+      <sub><b>Tags:</b> AI, Python, Computer Vision, ESP32, WiFi, Practical Project</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/theNeonTerminal/PillPal">
@@ -46,29 +54,41 @@
       <br/>
       <b>Medicine Reminder</b><br/>
       <sub>A digital Clock with an OLED dispaly that reminds you to take your medicines at the correct time!</sub><br/>
-      🔗 <a href="https://github.com/theNeonTerminal/PillPal">Check out my Repo here!</a>
+      🔗 <a href="https://github.com/theNeonTerminal/PillPal">Check out PillPal here!</a>
       <br/>
-      <sub>ESP32, Sensors, Displays, Practical Project</sub>
+      <sub><b>Tags:</b> ESP32, Sensors, Displays</sub>
     </td>
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Stats
+<h2>
+  <samp>⬡ github analytics</samp>
+</h2>
 
 <div align="center">
 
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=theNeonTerminal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theNeonTerminal&layout=compact&theme=radical) 
-<img src="https://streak-stats.demolab.com?user=theNeonTerminal&theme=tokyonight&hide_border=false" />
+  <a href="https://github.com/theNeonTerminal">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=theNeonTerminal&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true&icon_color=a78bfa&title_color=a78bfa&text_color=8b949e&ring_color=7c3aed" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theNeonTerminal&theme=midnight-purple&background=0d1117&hide_border=true&stroke=1a1a2e&ring=7c3aed&fire=ef476f&currStreakLabel=a78bfa&sideLabels=8b949e&dates=555555" />
+  </a>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theNeonTerminal&theme=react-dark)
+  <br>
+
+  <a href="https://github.com/theNeonTerminal">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theNeonTerminal&layout=compact&theme=midnight-purple&bg_color=0d1117&hide_border=true&title_color=a78bfa&text_color=8b949e" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=theNeonTerminal&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ef476f&area=true&area_color=7c3aed20&hide_border=true" width="95%" />
+  </a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Links
 [![Email](https://img.shields.io/badge/Email-reeshavghosh5@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reeshavghosh5@gmail.com)
